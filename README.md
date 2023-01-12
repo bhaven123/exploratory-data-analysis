@@ -16,4 +16,4 @@ Steps to **run** the jupyter notebook:
 ## Reasons for choosing the dataset
 
 - The dataset I chose is the very popular Iris dataset which includes three species of flowers along with their properties.
-- I chose this dataset because although its simple and vibrant to work with it. Also, we can perfrom different types of analysis and generate many different visualizations on this data.
+- I chose this dataset because although its simple and vibrant to work with it, we can perfrom different types of analysis and generate many different visualizations on this data.
